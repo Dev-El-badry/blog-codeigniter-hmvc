@@ -1,0 +1,1 @@
+<h1><?= $this->lang->line('dashboard_msg'); ?></h1>

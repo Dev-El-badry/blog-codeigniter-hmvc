@@ -1,0 +1,23 @@
+/* Start Section Navbar */
+.navbar-right {
+	float: left!important;
+}
+
+.dropdown-alerts, .dropdown-user, .dropdown-tasks, .dropdown-messages, .navbar-right .dropdown-menu {
+	left: 0;
+	right: auto;
+}
+
+.actions_btn {
+	float: left !important;
+}
+
+.actions_btn1 {
+	float: right !important;
+}
+
+.go-left {
+	float: left !important;
+}
+/* End Section Navbar */
+

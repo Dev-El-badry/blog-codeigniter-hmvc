@@ -1,0 +1,30 @@
+/* Start section site info */
+.arabic-design .form-group {
+	direction: rtl
+}
+/* End Section Site info */
+
+/* Start Table */
+.custab{
+    border: 1px solid #ccc;
+    padding: 5px;
+ 
+    box-shadow: 3px 3px 2px #ccc;
+    transition: 0.5s;
+    }
+.custab:hover{
+    box-shadow: 3px 3px 0px transparent;
+    transition: 0.5s;
+    }
+/* End Table */
+
+/* Custom UL */
+.ui-sortable li {
+    background: #f9f8f8;
+    padding: 5px 10px;
+    width: 320px;
+        margin: 7px 0;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+/* Custom UL */
